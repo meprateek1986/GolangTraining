@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(stringutilpackage.MyName)
+	fmt.Println(stringutilpackage.MyName) //reading constant value from another package
 }
