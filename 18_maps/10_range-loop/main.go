@@ -14,6 +14,4 @@ func main() {
 	for k, val := range m {
 		fmt.Println("key is ", k, " and value is ", val)
 	}
-
-	http.Get("")
 }
